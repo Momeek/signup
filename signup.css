@@ -1,0 +1,96 @@
+.container-fluid{
+    background-color: red;
+    color: brown;
+}
+.navbar{
+    background-color: aqua;
+}
+
+.container{ 
+    background-color: antiquewhite;
+        
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+/* .signup{
+margin-left: 50px; 
+margin-right: 30%;   
+} */
+.Name, .Email, .Adress, .City, .Code .checkbox {
+  margin:5px 0;  
+}
+
+.Last-Name{
+    width: 20%;    
+    height: 20%;
+    padding: 15px;
+
+}
+.input-first{
+width: 20%;    
+height: 20%;
+padding: 15px;
+
+}
+
+.Input-Email{
+    width: 40%;    
+    height: 20%;
+    padding: 15px;
+    
+}
+
+.input-Address{
+    width: 50%;    
+    height: 20%;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.input-Address1{
+    width: 50%;    
+    height: 20%;
+    padding: 15px;
+}
+.Input-City{
+    width: 20%;    
+    height: 20%;
+    padding: 15px;
+    
+}
+.input-Region{
+    width: 20%;    
+    height: 20%;
+    padding: 15px;
+    
+}
+.input-Country{
+    width: 20%;    
+    height: 20%;
+    padding: 15px;
+    
+    
+}
+.input-Radio{
+    border: 1px solid red;
+    
+}
+.Postal-ZipCode{
+    width: 20%;    
+    height: 20%;
+    padding: 15px;
+        
+}
+
+
+.input-button{
+    width: 20%;    
+    height: 20%;
+    padding: 15px;
+    margin-left: 30%;
+    
+}
